@@ -199,6 +199,7 @@ Thank you for using EscalateX!
 | Feature | Status | Description |
 |---------|--------|-------------|
 | 📑 **Report Generator** | Planned | Create comprehensive HTML/PDF reports with findings and remediation recommendations |
+| 🛠️ **Single Script Builder** | Planned | Build-Script to compile all modules into a singular script |
 | 🔍 **Service Version Scanning** | Planned | Identify outdated software versions running as services |
 | 🌐 **Real-time CVE Collection** | Planned | Connect to vulnerability databases to map identified software versions to known CVEs |
 | 🛠️ **Automatic Vulnerability Exploiter** | Considering | Optional module to automatically exploit identified vulnerabilities |
