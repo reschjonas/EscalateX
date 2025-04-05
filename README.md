@@ -17,7 +17,7 @@
 
 ## 📖 About
 
-EscalateX is a cybersecurity tool designed to identify priviledge escalation vectors on Linux systems. Automating the process of finding potential vulnerabilities and a modern alternative to LinPEAS is the purpose of EscalateX. 
+EscalateX is a cybersecurity tool designed to identify privilege escalation vectors on Linux systems. Automating the process of finding potential vulnerabilities and a modern alternative to LinPEAS is the purpose of EscalateX. 
 
 The tool is currently in its early development phase. Bugs can and will occur while running the tool - therefore, please report your findings by sending me an email.
 
