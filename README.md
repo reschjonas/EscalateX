@@ -7,7 +7,8 @@
 ![Bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)
 ![Platform](https://img.shields.io/badge/Platform-Linux-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![Downloads](https://img.shields.io/github/downloads/reschjonas/EscalateX/total?color=brightgreen)
+[![Downloads](https://img.shields.io/github/downloads/reschjonas/EscalateX/total?color=brightgreen)](https://img.shields.io/github/downloads/reschjonas/EscalateX/total
+)
 
 ![EscalateX Preview](title.png)
 
