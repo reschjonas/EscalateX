@@ -14,7 +14,7 @@
 #                                                                           #
 #############################################################
 
-VERSION="1.1.0" # Updated version for HTML report feature
+VERSION="1.0.0"
 AUTHOR="Jonas Resch"
 DISCLAIMER="This tool should be used for authorized penetration testing and/or educational purposes only. Any misuse of this software will not be the responsibility of the author or of any other collaborator. Use it at your own risk on your own systems or with explicit permission."
 
