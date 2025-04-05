@@ -8,11 +8,11 @@
 #  ██╔══╝  ╚════██║██║     ██╔══██║██║     ██╔══██║   ██║   ██╔══╝   ██╔██╗ 
 #  ███████╗███████║╚██████╗██║  ██║███████╗██║  ██║   ██║   ███████╗██╔╝ ██╗
 #  ╚══════╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
-#                                                                           #
-#  Advanced Privilege Escalation Scanner                                    #
-#  https://github.com/reschjonas/EscalateX                                #
-#                                                                           #
-#############################################################
+#                                                            #
+#  Advanced Privilege Escalation Scanner                     #
+#  https://github.com/reschjonas/EscalateX                   #
+#                                                            #
+##############################################################
 
 VERSION="1.0.0"
 AUTHOR="Jonas Resch"
