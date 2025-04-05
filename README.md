@@ -1,8 +1,7 @@
 # EscalateX
 
 <div align="center">
-
-![EscalateX Logo](https://img.shields.io/badge/EscalateX-Privilege%20Escalation%20Scanner-red?style=for-the-badge)
+   
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 ![Bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)
 ![Platform](https://img.shields.io/badge/Platform-Linux-blue)
