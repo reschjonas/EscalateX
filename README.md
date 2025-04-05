@@ -13,8 +13,6 @@
 
 **A powerful Linux privilege escalation scanner for security professionals**
 
-[Installation](#installation) • [Usage](#usage) • [Features](#what-it-checks-for) • [Contributing](#contributing) • [Roadmap](#roadmap)
-
 </div>
 
 ## 📖 About
@@ -206,11 +204,6 @@ Thank you for using EscalateX!
 | 🛠️ **Automatic Vulnerability Exploiter** | Considering | Optional module to automatically exploit identified vulnerabilities |
 
 <div align="center">
-  
-### Progress Tracker
-  
-![](https://progress-bar.dev/20/?title=Overall%20Progress&width=400&color=e6194B)
-
 </div>
 
 ## 🧩 Custom Modules
