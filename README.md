@@ -9,7 +9,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Downloads](https://img.shields.io/github/downloads/reschjonas/EscalateX/total?color=brightgreen)
 
-![EscalateX Preview](screen.png)
+![EscalateX Preview](title.png)
 
 **A powerful Linux privilege escalation scanner for security professionals**
 
